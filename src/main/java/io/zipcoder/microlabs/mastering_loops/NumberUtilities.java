@@ -45,7 +45,7 @@ public class NumberUtilities {
     public static String getRange(int start) {
         StringBuilder sb = new StringBuilder();
 
-        for (int i=0; i<start-1; i++) {
+        for (int i=0; i<start; i++) {
             sb.append(i);
         }
         return sb.toString();
