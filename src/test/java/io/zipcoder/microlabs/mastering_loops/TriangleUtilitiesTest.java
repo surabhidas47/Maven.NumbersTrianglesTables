@@ -18,7 +18,7 @@ public class TriangleUtilitiesTest {
     @Test
     public void getTriangleTest1() {
         String expected =
-                "*\n" +
+                        "*\n" +
                         "**\n" +
                         "***\n" +
                         "****\n" +
@@ -34,7 +34,7 @@ public class TriangleUtilitiesTest {
     @Test
     public void getTriangleTest2() {
         String expected =
-                "*\n" +
+                        "*\n" +
                         "**\n" +
                         "***\n" +
                         "****\n";
